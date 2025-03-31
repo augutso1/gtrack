@@ -1,0 +1,21 @@
+{
+  "name": "gtrack",
+  "version": "1.0.0",
+  "description": "A React Native app with Expo for tracking teams in sports like F1, football, and esports. Search, follow, and get notified about matches. View past/future games and seasons. Uses Firebase for real-time data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augutso1/gtrack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/augutso1/gtrack/issues"
+  },
+  "homepage": "https://github.com/augutso1/gtrack#readme"
+}
